@@ -43,5 +43,5 @@ The dataset contains:
 
 ---
 
-Feel free to reach out or connect via LinkedIn: [your LinkedIn URL here]
+Feel free to reach out or connect via LinkedIn: [(https://www.linkedin.com/in/uche-d-838177317/)]
 
